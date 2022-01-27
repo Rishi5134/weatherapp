@@ -1,0 +1,21 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.input-text{
+  height:10vh;
+  letter-spacing: 3px;
+  font-style: oblique;
+}
+.city_name{
+  
+  width:20%;
+}
+
+.data:hover{
+  background-color: gray;
+  color: aliceblue;
+  cursor:pointer;
+  transition: 0.5s;
+}
